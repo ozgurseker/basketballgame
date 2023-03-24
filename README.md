@@ -15,3 +15,8 @@ Next steps:
 - An optional timer to make move
 - Dependent on the calculated probability, it is successful or not.
 
+Further plans:
+- Make defense move towards their man (or between basket-their man)
+- Allow different type of players, different features and computational complexity on probabilities.
+- Go to rim or shoot options
+
