@@ -2,10 +2,13 @@
 
 In this repo, I am working on my simple basketball game idea on tkinter Python.
 
-Now I am learning how i could set my background image as a half court and set some points/players on it. 
+What I have learned/done:
+- How to set background image as halfcourt, 
+- Extracted lines from the halfcourt image
+- Found boundaries and place a player randomly into the halfcourt
 
 Next steps:
-- Extract different areas from the image through reading pixels. Like 3pt area, painted area etc.
+- Extract different areas from the image through reading pixels. Like 3pt area, painted area, the basket etc. 
 - Place 5 random players on the court with numbers on them for each team. 
 - Dependent on locations of all players on court, generate a basket probability for each player. 
 - Want user to choose a player to attack with
